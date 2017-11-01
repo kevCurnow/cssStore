@@ -67,6 +67,7 @@ table {
 th.cash {
 	background-image: url(/DotNetProjects/StoreApp/Images/dollar.jpg);
 	background-position: center;
+	background-size: cover;
 }
 
 .cash:hover .overlay {
