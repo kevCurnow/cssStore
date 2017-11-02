@@ -1,33 +1,37 @@
 body {
-	background-color: skyblue;
+	background-color: #7ec0ee;
 }
 
-.topBorder {
+/*.topBorder {
 	border: 1.5vh solid black;
 	border-radius: 2.9375em;
 	position: relative;
 }
+*/
 
-ul {
-	list-style-type: none;
-	overflow: hidden;
-	
-	border-radius: 2.9375em;
-	
-
+header {
+	background: url(https://i.imgur.com/B0m3V5o.jpg);
+	height: 20%;
+	margin: 0;
 }
-
 nav {
-	margin-left: 33%;
+	margin: auto;
 }
 
-nav ul li {
-	width: 7em;
-	text-align: center;
-	
-	/*background-color: rgba(252,251,243,.7);*/
-	
+.navbar {
+	background-color: transparent;
+	border-style: none;
+}
+.navbar .navbar-nav {
 	display: inline-block;
+	float: none;
+	vertical-align: top;
+}
+
+
+
+li {
+	margin: auto;
 }
 
 
