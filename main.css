@@ -65,7 +65,7 @@ table {
 }
 
 th.cash {
-	background-image: url(/DotNetProjects/StoreApp/Images/dollar.jpg);
+	background-image: url(https://i.imgur.com/1HlZxI5.jpg);
 	background-position: center;
 	
 }
@@ -164,29 +164,29 @@ tr {
 }
 
 th.Soon {
-	background-image: url(/DotNetProjects/StoreApp/Images/traffic.jpg);
+	background-image: url(https://i.imgur.com/DuIuB6y.jpg);
 }
 
 th.arm {
-	background-image: url(/DotNetProjects/StoreApp/Images/arm.jpg);
+	background-image: url(https://i.imgur.com/FJ4pbct.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 
 th.mind {
-	background-image: url(/DotNetProjects/StoreApp/Images/telek.jpg);
+	background-image: url(https://i.imgur.com/d1pQ8GB.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 th.zoom {
-	background-image: url(/DotNetProjects/StoreApp/Images/zoom.jpg);
+	background-image: url(https://i.imgur.com/dvnBKzX.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
 
 th.God {
-	background-image: url(/DotNetProjects/StoreApp/Images/infinity.jpg);
+	background-image: url(https://i.imgur.com/uH5kdBW.jpg);
 	background-repeat: no-repeat;
 	background-position: center;
 }
